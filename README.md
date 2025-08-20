@@ -4,7 +4,7 @@
 
 ## 👨‍💻 关于我
 
-我是一名对编程充满热情的大四学生，正在积极学习全栈开发。拥有扎实的 Java 基础，目前专注于 Python 全栈开发技能提升，希望构建有影响力的项目。
+我是一名对编程充满热情的学生，正在积极学习全栈开发。拥有扎实的 Java 基础，目前专注于 Python 全栈开发技能提升，希望构建有影响力的项目。
 
 ## 🛠️ 技术栈
 
@@ -48,7 +48,7 @@
 
 ## 📫 如何联系我
 
-- 邮箱: your-email@example.com
+- 邮箱: majunsheng1222@163.com
 - LinkedIn: [您的LinkedIn](https://www.linkedin.com/in/your-profile)
 - 个人博客: [您的技术博客](https://your-blog.com)
 
