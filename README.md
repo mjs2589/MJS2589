@@ -32,12 +32,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 GitHub 统计
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MJS2589&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJS2589&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
 
 ## 🏆 成就
 
